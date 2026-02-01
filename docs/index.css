@@ -287,16 +287,20 @@ footer {
     font-size: 2rem;
   }
 
+  h2 {
+    font-size: 1.8rem !important;
+  }
+
   .hero-content div[style*="flex"] {
     gap: 10px !important;
   }
 
   .logo-main {
-    font-size: 1.2rem;
+    font-size: 1.05rem;
   }
 
   .logo-sub {
-    font-size: 0.75rem;
+    font-size: 0.65rem;
   }
 
   .btn {
