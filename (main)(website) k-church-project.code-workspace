@@ -8,5 +8,15 @@
 		"workbench.editorAssociations": {
 			"*.md": "vscode.markdown.preview.editor"
 		}
+	},
+	"launch": {
+		"configurations": [
+			{
+				"type": "msedge",
+				"name": "http://127.0.0.1:3000/docs/donate.html",
+				"request": "launch",
+				"url": "http://127.0.0.1:3000/docs/donate.html"
+			}
+		]
 	}
 }
