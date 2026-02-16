@@ -349,6 +349,8 @@ footer {
 
   .hero-content div[style*="flex"] {
     gap: 10px !important;
+    flex-direction: column;
+    align-items: center;
   }
 
   .logo-main {
