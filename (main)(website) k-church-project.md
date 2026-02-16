@@ -11,22 +11,21 @@ thumbnail: thumbnails/resized/875816493484ce4f2dc542aa945c850c_86cf658e.webp
 status: in-progress
 id: 7c06073f78bae7a8
 createdAt: 2025/12/28 13:14:16
-dateModified: 2026-01-31T11:32:43.360-05:00
-priority: 1-high
+dateModified: 2026-02-14T13:20:26.188-05:00
+priority: 3-low
+vc-id: links_tasks_(main)(website) k-church-project_(main)(website) k-church-project_md
 ---
 #### To-do
-- [ ] Adjust footer menu
-	- [ ] ![[file-20260202194143951-Pasted image 20260202194143.jpg|540x1170]]
-#### GA/GAS website build instructions
+- Ed
+	- [ ] update phone numbers
 ```
-- Build a 5-page static website for a church. Create a consistent layout with a navigation bar that links to these pages: HOME, О НАС, СЛУЖЕНИЯ. Use a modern, clean CSS design
-- use this as template https://maucariapacom-church-starter.pages.dev/
-- use this document for textual content and images for the website "./docs/RM Website.pdf"
-- use those images for website "./docs/RM_Website/"
-- pure static HTML/CSS structure (no react)
-- Output into this directory ./docs/
-- Output for images ./docs/images/
+(917) 940-0596
+(917) 756-6545
 ```
+	- [x] update logo
+	- [ ] Register [[church domain name]]
+- Denis
+	- [ ] 
 #### Info
 ``` markdown
 - Project name → k-church-project
@@ -41,8 +40,25 @@ priority: 1-high
 
 ```
 
+###### Authentication/Log-in's
+```
+username: k-church-project@uscreator.com OR k-church-project
+password: K8jo;3XhqpMk!@Uvi
+```
+#### Assorted
+##### GA/GAS website build instructions
+```
+- Build a 5-page static website for a church. Create a consistent layout with a navigation bar that links to these pages: HOME, О НАС, СЛУЖЕНИЯ. Use a modern, clean CSS design
+- use this as template https://maucariapacom-church-starter.pages.dev/
+- use this document for textual content and images for the website "./docs/RM Website.pdf"
+- use those images for website "./docs/RM_Website/"
+- pure static HTML/CSS structure (no react)
+- Output into this directory ./docs/
+- Output for images ./docs/images/
+```
 
-#### OLD
+
+#### OLD/archive
 ```
 - Astro Temaplate → maucariapacom-church-starter | Astro → https://astro.build/themes/details/maucariapacom-church-starter/
 ```
