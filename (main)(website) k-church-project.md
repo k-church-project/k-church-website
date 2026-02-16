@@ -33,7 +33,7 @@ vc-id: links_tasks_(main)(website) k-church-project_(main)(website) k-church-pro
 - dev url: https://craziedde.github.io/k-church-website/index.html
   github: https://github.com/craziedde/k-church-website
 - domain: ???
-
+- contacts: Liza 6097872288
 
   
 
